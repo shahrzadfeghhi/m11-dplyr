@@ -23,7 +23,7 @@ unique(cars.1997$year)
 two.wheel.20.mpg <- vehicles[vehicles$drive == '2-Wheel Drive' & vehicles$cty > 20,]
 # Of those vehicles, what is the vehicle ID of the vehicle with the worst hwy mpg?
 
-hi
+
 # Write a function that takes a `year` and a `make` as parameters, and returns 
 # The vehicle that gets the most hwy miles/gallon of vehicles of that make in that year
 
